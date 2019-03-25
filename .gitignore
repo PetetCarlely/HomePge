@@ -21,4 +21,9 @@ data/DoctrineORMModule/cache/
 
 # Legacy ZF1
 demos/
-extras/documentation
+extras/
+
+
+#idea
+images/
+.idea/
